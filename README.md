@@ -39,7 +39,12 @@ This boy called Sean who was a keen.
 Disaster
 -
 There once was a fire
+
 on top of a spire
+
 Emily died
+
 Evie survived
+
 And the fire rose higher
+
