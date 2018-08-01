@@ -1,4 +1,4 @@
-# __*Limericks*__
+# **Limericks**
 
 Pig
 -
