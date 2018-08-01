@@ -26,10 +26,14 @@ This girl who met a stinky old lady.
 
 Boy
 -
-There once was a boy called Sean
-Who was the son of the queen
-Sean had a brother
-Who hated his mother
-This boy called Sean who was a keen
+There once was a boy called Sean,
+
+Who was the son of the queen,
+
+Sean had a brother,
+
+Who hated his mother,
+
+This boy called Sean who was a keen.
 
 
