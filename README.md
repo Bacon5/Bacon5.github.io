@@ -1,4 +1,4 @@
-# Limericks by FollowCherryBlossom
+# Limericks
 
 Pig
 -
