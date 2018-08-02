@@ -1,7 +1,6 @@
 # **Limericks**
 
-Pig
--
+## Pig
 There once was a big pig,
 
  Who went to a gig,
@@ -12,8 +11,7 @@ There once was a big pig,
  
  That looked like a fig.
 
-Lady
--
+## Lady
 There once was a young girl called Sadie,
 
 Who met a stinky old lady,
@@ -24,8 +22,7 @@ She said she need the loo,
 
 This girl who met a stinky old lady.
 
-Boy
--
+## Boy
 There once was a boy called Sean,
 
 Who was the son of the queen,
@@ -36,8 +33,7 @@ Who hated his mother,
 
 This boy called Sean who was a keen.
 
-Disaster
--
+## Disaster
 There once was a fire
 
 on top of a spire
