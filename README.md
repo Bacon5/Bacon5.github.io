@@ -56,4 +56,4 @@ Email: splatter2005@hotmail.co.uk
 
 Github account: @Bacon5
 
-Scratch Account: (https://scratch.mit.edu/users/FollowCherryBlossom/)
+Scratch Account: https://scratch.mit.edu/users/FollowCherryBlossom/
