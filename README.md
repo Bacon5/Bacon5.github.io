@@ -1,4 +1,4 @@
-[color=red]# **Limericks** 
+[colour=red]# **Limericks** 
 
 ## Pig
 There once was a big pig,
