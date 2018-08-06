@@ -45,7 +45,7 @@ Evie survived
 And the fire rose higher
 
 
-#Pencil Code Stickman 
+# Pencil Code Stickman 
 
 stick = () ->
 
@@ -125,7 +125,7 @@ fd 75
 
 stick()
 
-#Scratch Projects I made
+# Scratch Projects I made
 
 https://scratch.mit.edu/projects/235774762/
 
