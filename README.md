@@ -1,4 +1,4 @@
-[#f03c15]# **Limericks** 
+# **Limericks** 
 
 ## Pig
 There once was a big pig,
